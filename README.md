@@ -1,5 +1,8 @@
-# Prajwal_Web_App_Flask-React
+### Prajwal_Web_App_Flask-React
 
-#Setup
-\nnpm init -y
-\nnpm install firebase react-router-dom react-firebase-hooks
+- npm init -y
+- npm install firebase react-router-dom react-firebase-hooks
+
+
+## Editor.md
+- Environement Variable to Firebase Config Vars should be added
