@@ -31,3 +31,9 @@
 .itemVal{
     font-size: large;
 }
+
+.imageProfile{
+    border-radius: 50%;
+    height: 100px;
+    width: fit-content;
+}

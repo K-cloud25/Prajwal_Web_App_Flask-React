@@ -68,7 +68,8 @@ export default function DashBoard(props){
                                 dob={e.dob}
                                 height={e.height}
                                 weight={e.weight}
-                                emgPhone={e.emergency_contact} />
+                                emgPhone={e.emergency_contact}
+                                imageURL={e.imageURL} />
                             );
                         })}
                     </div>

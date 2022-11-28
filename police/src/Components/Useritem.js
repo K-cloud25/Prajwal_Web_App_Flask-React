@@ -9,7 +9,7 @@ export default function Useritem(props){
         <>
         <div className='user_item_container'>
             <div className='image_container'>
-                <img src={userIcon} alt="DATA"/>
+                <img src={props.imageURL} alt={userIcon} className="imageProfile"/>
             </div>
             <div className='info_container'>
                 <div className='item'>
